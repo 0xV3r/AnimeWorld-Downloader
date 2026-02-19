@@ -7,7 +7,7 @@ Applicazione Windows portatile per scaricare anime da Anime World in modo sempli
 ## 🔒 Sicurezza Verificata
 
 Il file è stato analizzato con VirusTotal per verificarne la sicurezza:
-[🔗 Visualizza report completo](https://www.virustotal.com/gui/file/84cc0e3cf0d957f6254870cc3b5a6142bbab217b4c8749a520fcacb6eeb4c9dd/detection)
+[🔗 Visualizza report completo](https://www.virustotal.com/gui/file/99910b41ef14f5303bce7d9760b7d8288c65d77b49ec3512f8a9f149c6dd0577)
 
 ## ✨ Caratteristiche Principali
 
