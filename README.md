@@ -7,13 +7,14 @@ Applicazione Windows portatile per scaricare anime da Anime World in modo sempli
 ## 🔒 Sicurezza Verificata
 
 Il file è stato analizzato con VirusTotal per verificarne la sicurezza:
-[🔗 Visualizza report completo](https://www.virustotal.com/gui/file/99910b41ef14f5303bce7d9760b7d8288c65d77b49ec3512f8a9f149c6dd0577)
+[🔗 Visualizza report completo](https://www.virustotal.com/gui/file/82ab78edefd99f9a35316812a502d284da1f30ae03bbc00bbf4fc6442db50ea3)
 
 ## ✨ Caratteristiche Principali
 
 - 🎯 **Pronto all'uso** - Doppio click per avviare, nessuna installazione richiesta
 - 🔄 **Riprendi download** - Continua automaticamente da dove avevi interrotto
 - ⚡ **Download multipli** - Fino a 6 episodi contemporaneamente  
+- 🎯 **Range episodi** - Scarica solo gli episodi che ti interessano (es. 1-5)  
 - 📂 **Organizzazione automatica** - Crea cartelle separate per ogni anime
 - ⚙️ **Personalizzabile** - Modifica cartella download
 
